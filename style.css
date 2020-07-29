@@ -65,6 +65,7 @@ h2 {
   justify-content: space-evenly;
   padding: 0px 106px;
   text-decoration: none;
+  text-align: center;
 }
 
 .list-inline > li {
