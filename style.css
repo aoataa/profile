@@ -65,13 +65,15 @@ h2 {
   justify-content: space-evenly;
   padding: 0px 106px;
   text-decoration: none;
+  deco
 }
 
 .list-inline > li {
   display: inline-flex;
   justify-content: space-between;
   font-size: 30px;
-
+  text-decoration: none;
+  color: #606060;
 }
 
 @media (max-width: 960px) {
