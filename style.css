@@ -64,6 +64,7 @@ h2 {
   display: flex;
   justify-content: space-evenly;
   padding: 0px 106px;
+  text-decoration: none;
 }
 
 .list-inline > li {
